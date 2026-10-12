@@ -1,0 +1,6 @@
+{
+  "name": "MediLens",
+  "description": "Evidence-grounded medicine label intelligence, safety verification, and interaction analysis powered by Gemma.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
